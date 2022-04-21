@@ -1,0 +1,19 @@
+{
+  "meetings": [
+    {
+      "title": "first meeting",
+      "description": "this is our first meeting"
+    },
+    {
+        "title": "second meeting",
+      "description": "this is our second meeting"
+
+    },
+    {
+        "title": "third meeting",
+      "description": "this is our third meeting"
+    }
+
+
+  ]
+}

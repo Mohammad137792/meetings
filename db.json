@@ -1,0 +1,18 @@
+{
+  "meetings": [
+    {
+      "id": 1,
+      "title": "first meeting",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "my first address",
+      "description": "this is our first meeting"
+    },
+    {
+      "title": "dasd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "adsad",
+      "description": "dasd",
+      "id": 2
+    }
+  ]
+}
